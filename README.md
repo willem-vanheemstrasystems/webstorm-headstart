@@ -3,13 +3,13 @@ WebStorm - Headstart
 
 Get WebStorm from http://www.jetbrains.com
 
-#Meet WebStorm
+#[Meet WebStorm](https://www.jetbrains.com/help/webstorm/2016.1/meet-webstorm.html)
 
-#How to
+#[How to](https://www.jetbrains.com/help/webstorm/2016.1/how-to.html)
 
-##General Guidelines
+##[General Guidelines](https://www.jetbrains.com/help/webstorm/2016.1/general-guidelines.html)
 
-##Language and Framework - Specific Guidelines
+##[Language and Framework - Specific Guidelines](https://www.jetbrains.com/help/webstorm/2016.1/language-and-framework-specific-guidelines.html)
 
 ###1. [Node.js](https://www.jetbrains.com/help/webstorm/2016.1/node-js.html)
 
